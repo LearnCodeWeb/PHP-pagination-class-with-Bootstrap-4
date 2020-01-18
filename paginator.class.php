@@ -42,7 +42,7 @@ class Paginator{
 
 
 
-	function Paginator()
+	function __construct()
 
 	{
 
