@@ -1,0 +1,32 @@
+{
+    "name": "learncodeweb/php-pagination-class-with-bootstrap",
+    "description": "Fashion Bootstrap landing page for beginners.",
+    "homepage": "https://learncodeweb.com/php/php-pagination-class-with-bootstrap-4/",
+    "type": "php-pagination-class-with-bootstrap-4",
+    "keywords": [
+        "PHP Pagination Class With Bootstrap 4",
+        "BS4",
+        "PHP",
+        "CSS",
+        "Free",
+        "Pagination",
+        "Pagination Class",
+        "Class Bootstrap 4",
+        "Responsive",
+        "learncodeweb.com"
+    ],
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Khalid Zaid Bin [Mian Zaid]",
+            "email": "zaid@learncodeweb.com"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/LearnCodeWeb/PHP-pagination-class-with-Bootstrap-4/issues"
+    },
+    "require": {
+        "composer/installers": "1.*"
+    }
+}
