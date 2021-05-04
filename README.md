@@ -3,7 +3,7 @@ PHP pagination class with Bootstrap 4
 
 ## Composer Installation
 
-`composer require learncodeweb/php-pagination-class-with-bootstrap-4`
+`composer require learncodeweb/php-pagination-class-with-bootstrap-4:dev-master`
 
 <a href="https://learncodeweb.com/php/php-pagination-class-with-bootstrap-4/" target="_blank">Click here</a> to see complete detail.
 
