@@ -7,7 +7,7 @@
     array (
     ),
     'reference' => NULL,
-    'name' => 'learncodeweb/php-pagination-class-with-bootstrap',
+    'name' => 'learncodeweb/php-pagination-class-with-bootstrap-4',
   ),
   'versions' => 
   array (
@@ -20,7 +20,7 @@
       ),
       'reference' => 'ae03311f45dfe194412081526be2e003960df74b',
     ),
-    'learncodeweb/php-pagination-class-with-bootstrap' => 
+    'learncodeweb/php-pagination-class-with-bootstrap-4' => 
     array (
       'pretty_version' => '1.0.0+no-version-set',
       'version' => '1.0.0.0',
