@@ -23,6 +23,11 @@
         }
     ],
     "license": "MIT",
+    "autoload": {
+        "classmap": [
+            "./paginator.class.php"
+        ]
+    },
     "support": {
         "issues": "https://github.com/LearnCodeWeb/PHP-pagination-class-with-Bootstrap-4/issues"
     },
